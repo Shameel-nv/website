@@ -1,0 +1,49 @@
+.heading{
+  background-color: black;
+  color: aliceblue;
+  
+
+}
+.heading h1{
+  color: aliceblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:25px;
+}
+.h2 h2{
+  font-size:65px;
+  justify-content: space-evenly;
+font-family: 'Courier New', Courier, monospace;
+}
+*{
+  margin: 10px;
+  padding:0px;
+}
+.para{
+  width: 1000px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.image{
+  height: 400px;
+  width: 500px;
+}
+.image-container{
+  flex-direction: column;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+.img1{
+  height: 200px;
+  width: 300px;
+ 
+
+}
+
+
+
+
+
+
+
+
