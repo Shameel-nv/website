@@ -8,8 +8,8 @@ function App() {
         <div className="heading">
           <h1>
             ABOUT ME&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MY
-            WORK&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;CONTACT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            WORK&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;CONNECT
+            US&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </h1>
         </div>
         <div className="h2">
